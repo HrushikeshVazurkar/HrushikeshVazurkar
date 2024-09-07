@@ -1,6 +1,8 @@
 <h1>Hi, I'm Hrushikesh! <br/><a href="https://github.com/HrushikeshVazurkar">Software Development</a>, <a href="https://github.com/HrushikeshVazurkar">Data Science and Analytics</a>, <a href="https://www.youtube.com/@hrushikeshvazurkar">YouTube</a></h1>
 
-<h2>👨‍💻 Statistics:</h2>
+<h2>👨‍💻 Software Development:</h2>
+
+<h2>:bar_chart: Statistics:</h2>
 
 - <b>Biostatistics</b>
   - [Logistic Regression on biomedical data.](https://github.com/HrushikeshVazurkar/Biostatistics-1)
