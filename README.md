@@ -8,8 +8,8 @@
 <h2>:chart_with_upwards_trend: Data Science:</h2>
 
 - <b>Dissertation Projects</b> 
-  - [Unsupervised modelling of hourly time-series employee spending data](hh)
-  - [Analysis of public insurance data for predictive modelling of Financial Ombudsman Service decisions](hh)
+  - [Unsupervised modelling of hourly time-series employee spending data](https://github.com/HrushikeshVazurkar/Dissertation-1)
+  - [Analysis of public insurance data for predictive modelling of Financial Ombudsman Service decisions](https://github.com/HrushikeshVazurkar/Dissertation-2)
 
 <h2>:bar_chart: Statistics:</h2>
 
