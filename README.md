@@ -1,11 +1,13 @@
 <h1>Hi, I'm Hrushikesh! <br/><a href="https://github.com/HrushikeshVazurkar">Software Development</a>, <a href="https://github.com/HrushikeshVazurkar">Data Science and Analytics</a>, <a href="https://www.youtube.com/@hrushikeshvazurkar">YouTube</a></h1>
 
 <h2>👨‍💻 Software Development:</h2>
-
 - <b>Applied Cloud Programming</b>
   - [Accessing Apache Kafka with Spring Boot APIs](https://github.com/HrushikeshVazurkar/ACP-Kafka)
  
 <h2>:chart_with_upwards_trend: Data Science:</h2>
+- <b>Dissertation Projects</b> 
+  - [Unsupervised modelling of hourly time-series employee spending data]()
+  - [Analysis of public insurance data for predictive modelling of Financial Ombudsman Service decisions]()
 
 <h2>:bar_chart: Statistics:</h2>
 
