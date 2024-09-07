@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Software Development:</h2>
 
+- <b>Applied Cloud Programming</b>
+  - [Accessing Apache Kafka with Spring Boot APIs]()
+
 <h2>:bar_chart: Statistics:</h2>
 
 - <b>Biostatistics</b>
