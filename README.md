@@ -26,7 +26,7 @@
 
 - [Bayesian Theory in Data Science](https://www.linkedin.com/feed/update/urn:li:activity:7187464658759372800/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7187464658759372800%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 - [What is Cassandra?](https://www.linkedin.com/feed/update/urn:li:activity:7084539338532732929/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7084539338532732929%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_leia_creator_analytics_top_posts%3BPZRo1M4tSbaH6%2FCHoLGAQA%3D%3D)
-- [HBase vs HDFS]([https://www.youtube.com/watch?v=N-L9hklSlNk](https://www.linkedin.com/feed/update/urn:li:activity:7083134972026339330/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7083134972026339330%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_leia_creator_analytics_top_posts%3BPZRo1M4tSbaH6%2FCHoLGAQA%3D%3D)
+- [HBase vs HDFS]( [https://www.youtube.com/watch?v=N-L9hklSlNk](https://www.linkedin.com/feed/update/urn:li:activity:7083134972026339330/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7083134972026339330%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_leia_creator_analytics_top_posts%3BPZRo1M4tSbaH6%2FCHoLGAQA%3D%3D) )
 - [What is Big Data?](https://www.linkedin.com/feed/update/urn:li:activity:7031706707193925634/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7031706707193925634%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
   
 <h2> 🤳 Connect with me:</h2>
