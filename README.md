@@ -1,6 +1,6 @@
 <h1>Hi, I'm Hrushikesh! <br/><a href="https://github.com/HrushikeshVazurkar">Software Development</a>, <a href="https://github.com/HrushikeshVazurkar">Data Science and Analytics</a>, <a href="https://www.youtube.com/@hrushikeshvazurkar">YouTube</a></h1>
 
-<h2>👨‍💻 Software Development:</h2>
+<h2>💻 Software Development:</h2>
 
 - <b>Applied Cloud Programming</b>
   - [Accessing Apache Kafka with Spring Boot APIs](https://github.com/HrushikeshVazurkar/ACP-Kafka)
@@ -29,7 +29,7 @@
 - [What is Big Data?](https://www.linkedin.com/feed/update/urn:li:activity:7031706707193925634/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7031706707193925634%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 - [The learnings reflecting upon my BTech Journey](https://www.linkedin.com/feed/update/urn:li:activity:7014649151359455232/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7014649151359455232%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
   
-<h2> 🤳 Connect with me:</h2>
+<h2>📱 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
