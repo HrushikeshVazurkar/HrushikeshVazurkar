@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hrushikesh! <br/><a href="https://github.com/HrushikeshVazurkar">Software Development</a>, <a href="https://github.com/HrushikeshVazurkar">Data Science and Analytics</a>, <a href="https://www.youtube.com/@hrushikeshvazurkar">YouTube</a></h1>
+<h1>Hi, I'm Hrushikesh! <br/><a href="https://github.com/HrushikeshVazurkar">Software Development</a>, <a href="https://github.com/HrushikeshVazurkar">Statistics</a> and <a href="https://github.com/HrushikeshVazurkar">Data Science</a></h1>
 
 <h2>💻 Software Development:</h2>
 
